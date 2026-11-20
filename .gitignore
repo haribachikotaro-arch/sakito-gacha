@@ -1,2 +1,9 @@
 ﻿.qa/
 .history/
+
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
